@@ -150,6 +150,7 @@ optionA.addEventListener("click", function () {
     } else {
         questionsAdd++;
         questionSet();
+        timerCount -= 10;
 
         myResult.style.visibility="visible";
 
@@ -180,6 +181,7 @@ optionB.addEventListener("click", function () {
     } else {
         questionsAdd++;
         questionSet();
+        timerCount -= 10;
 
         myResult.style.visibility="visible";
 
@@ -209,6 +211,7 @@ optionC.addEventListener("click", function () {
     } else {
         questionsAdd++;
         questionSet();
+        timerCount -= 10;
 
         myResult.style.visibility="visible";
 
@@ -238,6 +241,7 @@ optionD.addEventListener("click", function () {
     } else {   
         questionsAdd++;
         questionSet();
+        timerCount -= 10;
 
         myResult.style.visibility="visible";
 
