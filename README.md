@@ -40,5 +40,3 @@ NOTE: This was made in order to compare the previous score to the current since 
 ![StartUp Page](Assets/scoreBoard.png)
 
 Here is the previous score once the user does the quiz again.
-
-
