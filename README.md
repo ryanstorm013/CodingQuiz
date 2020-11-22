@@ -19,7 +19,7 @@ When you start up the website you will be greeted with the following statement i
 start button is clicked. If you click on "Coding Quiz" on the top left corner it will take you back to the start, this works during the quiz and after the quiz. 
 
 ![StartUp Page](Assets/Question1.png)
-![StartUp Page](Assets/Question2.png)
+![StartUp Page](Assets/Question2.png) 
 ![StartUp Page](Assets/Question3.png)
 ![StartUp Page](Assets/Question4.png)
 ![StartUp Page](Assets/Question5.png)
