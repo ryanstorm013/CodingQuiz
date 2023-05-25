@@ -1,4 +1,4 @@
-# HMW4
+# Coding Quiz
 Code Quiz Creation with API Manipulation
 
 ## Assignment
